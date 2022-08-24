@@ -1,0 +1,479 @@
+ID	Sex	Pop	Description
+NA19625	F	ASW	African Ancestry in SW USA
+NA19700	M	ASW	African Ancestry in SW USA
+NA19701	F	ASW	African Ancestry in SW USA
+NA19703	M	ASW	African Ancestry in SW USA
+NA19704	F	ASW	African Ancestry in SW USA
+NA19707	F	ASW	African Ancestry in SW USA
+NA19711	M	ASW	African Ancestry in SW USA
+NA19712	F	ASW	African Ancestry in SW USA
+NA19713	F	ASW	African Ancestry in SW USA
+NA19818	M	ASW	African Ancestry in SW USA
+NA19819	F	ASW	African Ancestry in SW USA
+NA19834	M	ASW	African Ancestry in SW USA
+NA19835	F	ASW	African Ancestry in SW USA
+NA19900	M	ASW	African Ancestry in SW USA
+NA19901	F	ASW	African Ancestry in SW USA
+NA19904	M	ASW	African Ancestry in SW USA
+NA19908	M	ASW	African Ancestry in SW USA
+NA19909	F	ASW	African Ancestry in SW USA
+NA19913	F	ASW	African Ancestry in SW USA
+NA19914	F	ASW	African Ancestry in SW USA
+NA19916	M	ASW	African Ancestry in SW USA
+NA19917	F	ASW	African Ancestry in SW USA
+NA19920	M	ASW	African Ancestry in SW USA
+NA19921	F	ASW	African Ancestry in SW USA
+NA19922	M	ASW	African Ancestry in SW USA
+NA19923	F	ASW	African Ancestry in SW USA
+NA19982	M	ASW	African Ancestry in SW USA
+NA19984	M	ASW	African Ancestry in SW USA
+NA20126	M	ASW	African Ancestry in SW USA
+NA20127	F	ASW	African Ancestry in SW USA
+NA20274	F	ASW	African Ancestry in SW USA
+NA20276	F	ASW	African Ancestry in SW USA
+NA20278	M	ASW	African Ancestry in SW USA
+NA20281	M	ASW	African Ancestry in SW USA
+NA20282	F	ASW	African Ancestry in SW USA
+NA20287	F	ASW	African Ancestry in SW USA
+NA20289	F	ASW	African Ancestry in SW USA
+NA20291	M	ASW	African Ancestry in SW USA
+NA20294	F	ASW	African Ancestry in SW USA
+NA20296	F	ASW	African Ancestry in SW USA
+NA20298	M	ASW	African Ancestry in SW USA
+NA20299	F	ASW	African Ancestry in SW USA
+NA20314	F	ASW	African Ancestry in SW USA
+NA20317	F	ASW	African Ancestry in SW USA
+NA20318	M	ASW	African Ancestry in SW USA
+NA20320	F	ASW	African Ancestry in SW USA
+NA20321	F	ASW	African Ancestry in SW USA
+NA20332	F	ASW	African Ancestry in SW USA
+NA20334	F	ASW	African Ancestry in SW USA
+NA20339	F	ASW	African Ancestry in SW USA
+NA20340	M	ASW	African Ancestry in SW USA
+NA20342	M	ASW	African Ancestry in SW USA
+NA20346	M	ASW	African Ancestry in SW USA
+NA20348	M	ASW	African Ancestry in SW USA
+NA20351	M	ASW	African Ancestry in SW USA
+NA20355	F	ASW	African Ancestry in SW USA
+NA20356	M	ASW	African Ancestry in SW USA
+NA20357	F	ASW	African Ancestry in SW USA
+NA20359	F	ASW	African Ancestry in SW USA
+NA20362	M	ASW	African Ancestry in SW USA
+NA20412	F	ASW	African Ancestry in SW USA
+NA06984	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA06985	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA06986	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA06989	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA06994	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA07000	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA07037	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA07048	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA07051	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA07056	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA07347	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA07357	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA10847	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA10851	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA11829	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA11830	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA11831	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA11832	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA11840	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA11843	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA11881	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA11892	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA11893	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA11894	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA11918	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA11919	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA11920	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA11930	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA11931	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA11932	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA11933	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA11992	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA11994	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA11995	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12003	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12004	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12005	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12006	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12043	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12044	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12045	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12046	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12058	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12144	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12154	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12155	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12156	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12234	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12249	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12272	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12273	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12275	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12282	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12283	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12286	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12287	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12340	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12341	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12342	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12347	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12348	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12383	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12399	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12400	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12413	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12414	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12489	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12546	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12716	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12717	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12718	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12748	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12749	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12750	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12751	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12760	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12761	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12762	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12763	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12775	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12776	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12777	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12778	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12812	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12813	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12814	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12815	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12827	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12828	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12829	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12830	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12842	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12843	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12872	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12873	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12874	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12878	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12889	M	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA12890	F	CEU	Utah residents (CEPH) with Northern and Western European ancestry
+NA18525	F	CHB	Han Chinese in Beijing, China
+NA18526	F	CHB	Han Chinese in Beijing, China
+NA18528	F	CHB	Han Chinese in Beijing, China
+NA18530	M	CHB	Han Chinese in Beijing, China
+NA18531	F	CHB	Han Chinese in Beijing, China
+NA18532	F	CHB	Han Chinese in Beijing, China
+NA18533	F	CHB	Han Chinese in Beijing, China
+NA18534	M	CHB	Han Chinese in Beijing, China
+NA18535	F	CHB	Han Chinese in Beijing, China
+NA18536	M	CHB	Han Chinese in Beijing, China
+NA18537	F	CHB	Han Chinese in Beijing, China
+NA18538	F	CHB	Han Chinese in Beijing, China
+NA18539	F	CHB	Han Chinese in Beijing, China
+NA18541	F	CHB	Han Chinese in Beijing, China
+NA18542	F	CHB	Han Chinese in Beijing, China
+NA18543	M	CHB	Han Chinese in Beijing, China
+NA18544	M	CHB	Han Chinese in Beijing, China
+NA18545	F	CHB	Han Chinese in Beijing, China
+NA18546	M	CHB	Han Chinese in Beijing, China
+NA18547	F	CHB	Han Chinese in Beijing, China
+NA18548	M	CHB	Han Chinese in Beijing, China
+NA18549	M	CHB	Han Chinese in Beijing, China
+NA18550	F	CHB	Han Chinese in Beijing, China
+NA18552	F	CHB	Han Chinese in Beijing, China
+NA18553	F	CHB	Han Chinese in Beijing, China
+NA18555	F	CHB	Han Chinese in Beijing, China
+NA18557	M	CHB	Han Chinese in Beijing, China
+NA18558	M	CHB	Han Chinese in Beijing, China
+NA18559	M	CHB	Han Chinese in Beijing, China
+NA18560	F	CHB	Han Chinese in Beijing, China
+NA18561	M	CHB	Han Chinese in Beijing, China
+NA18562	M	CHB	Han Chinese in Beijing, China
+NA18563	M	CHB	Han Chinese in Beijing, China
+NA18564	F	CHB	Han Chinese in Beijing, China
+NA18565	F	CHB	Han Chinese in Beijing, China
+NA18566	F	CHB	Han Chinese in Beijing, China
+NA18567	F	CHB	Han Chinese in Beijing, China
+NA18570	F	CHB	Han Chinese in Beijing, China
+NA18571	F	CHB	Han Chinese in Beijing, China
+NA18572	M	CHB	Han Chinese in Beijing, China
+NA18573	F	CHB	Han Chinese in Beijing, China
+NA18574	F	CHB	Han Chinese in Beijing, China
+NA18577	F	CHB	Han Chinese in Beijing, China
+NA18579	F	CHB	Han Chinese in Beijing, China
+NA18582	F	CHB	Han Chinese in Beijing, China
+NA18591	F	CHB	Han Chinese in Beijing, China
+NA18592	F	CHB	Han Chinese in Beijing, China
+NA18593	F	CHB	Han Chinese in Beijing, China
+NA18595	F	CHB	Han Chinese in Beijing, China
+NA18596	F	CHB	Han Chinese in Beijing, China
+NA18597	F	CHB	Han Chinese in Beijing, China
+NA18599	F	CHB	Han Chinese in Beijing, China
+NA18602	F	CHB	Han Chinese in Beijing, China
+NA18603	M	CHB	Han Chinese in Beijing, China
+NA18605	M	CHB	Han Chinese in Beijing, China
+NA18606	M	CHB	Han Chinese in Beijing, China
+NA18608	M	CHB	Han Chinese in Beijing, China
+NA18609	M	CHB	Han Chinese in Beijing, China
+NA18610	F	CHB	Han Chinese in Beijing, China
+NA18611	M	CHB	Han Chinese in Beijing, China
+NA18612	M	CHB	Han Chinese in Beijing, China
+NA18613	M	CHB	Han Chinese in Beijing, China
+NA18614	F	CHB	Han Chinese in Beijing, China
+NA18615	F	CHB	Han Chinese in Beijing, China
+NA18616	F	CHB	Han Chinese in Beijing, China
+NA18617	F	CHB	Han Chinese in Beijing, China
+NA18618	F	CHB	Han Chinese in Beijing, China
+NA18619	F	CHB	Han Chinese in Beijing, China
+NA18620	M	CHB	Han Chinese in Beijing, China
+NA18621	M	CHB	Han Chinese in Beijing, China
+NA18622	M	CHB	Han Chinese in Beijing, China
+NA18623	M	CHB	Han Chinese in Beijing, China
+NA18624	M	CHB	Han Chinese in Beijing, China
+NA18625	F	CHB	Han Chinese in Beijing, China
+NA18626	F	CHB	Han Chinese in Beijing, China
+NA18627	F	CHB	Han Chinese in Beijing, China
+NA18628	F	CHB	Han Chinese in Beijing, China
+NA18629	M	CHB	Han Chinese in Beijing, China
+NA18630	F	CHB	Han Chinese in Beijing, China
+NA18631	F	CHB	Han Chinese in Beijing, China
+NA18632	M	CHB	Han Chinese in Beijing, China
+NA18633	M	CHB	Han Chinese in Beijing, China
+NA18634	F	CHB	Han Chinese in Beijing, China
+NA18635	M	CHB	Han Chinese in Beijing, China
+NA18636	M	CHB	Han Chinese in Beijing, China
+NA18637	M	CHB	Han Chinese in Beijing, China
+NA18638	M	CHB	Han Chinese in Beijing, China
+NA18639	M	CHB	Han Chinese in Beijing, China
+NA18640	F	CHB	Han Chinese in Beijing, China
+NA18641	F	CHB	Han Chinese in Beijing, China
+NA18642	F	CHB	Han Chinese in Beijing, China
+NA18643	M	CHB	Han Chinese in Beijing, China
+NA18644	F	CHB	Han Chinese in Beijing, China
+NA18645	M	CHB	Han Chinese in Beijing, China
+NA18646	F	CHB	Han Chinese in Beijing, China
+NA18647	M	CHB	Han Chinese in Beijing, China
+NA18648	M	CHB	Han Chinese in Beijing, China
+NA18740	M	CHB	Han Chinese in Beijing, China
+NA18745	M	CHB	Han Chinese in Beijing, China
+NA18747	M	CHB	Han Chinese in Beijing, China
+NA18748	M	CHB	Han Chinese in Beijing, China
+NA18749	M	CHB	Han Chinese in Beijing, China
+NA18757	M	CHB	Han Chinese in Beijing, China
+NA20502	F	TSI	Toscani in Italia
+NA20503	F	TSI	Toscani in Italia
+NA20504	F	TSI	Toscani in Italia
+NA20505	F	TSI	Toscani in Italia
+NA20506	F	TSI	Toscani in Italia
+NA20507	F	TSI	Toscani in Italia
+NA20508	F	TSI	Toscani in Italia
+NA20509	M	TSI	Toscani in Italia
+NA20510	M	TSI	Toscani in Italia
+NA20511	M	TSI	Toscani in Italia
+NA20512	M	TSI	Toscani in Italia
+NA20513	M	TSI	Toscani in Italia
+NA20514	F	TSI	Toscani in Italia
+NA20515	M	TSI	Toscani in Italia
+NA20516	M	TSI	Toscani in Italia
+NA20517	F	TSI	Toscani in Italia
+NA20518	M	TSI	Toscani in Italia
+NA20519	M	TSI	Toscani in Italia
+NA20520	M	TSI	Toscani in Italia
+NA20521	M	TSI	Toscani in Italia
+NA20522	F	TSI	Toscani in Italia
+NA20524	M	TSI	Toscani in Italia
+NA20525	M	TSI	Toscani in Italia
+NA20527	M	TSI	Toscani in Italia
+NA20528	M	TSI	Toscani in Italia
+NA20529	F	TSI	Toscani in Italia
+NA20530	F	TSI	Toscani in Italia
+NA20531	F	TSI	Toscani in Italia
+NA20532	M	TSI	Toscani in Italia
+NA20533	F	TSI	Toscani in Italia
+NA20534	M	TSI	Toscani in Italia
+NA20535	F	TSI	Toscani in Italia
+NA20536	M	TSI	Toscani in Italia
+NA20538	M	TSI	Toscani in Italia
+NA20539	M	TSI	Toscani in Italia
+NA20540	F	TSI	Toscani in Italia
+NA20541	F	TSI	Toscani in Italia
+NA20542	F	TSI	Toscani in Italia
+NA20543	M	TSI	Toscani in Italia
+NA20544	M	TSI	Toscani in Italia
+NA20581	M	TSI	Toscani in Italia
+NA20582	F	TSI	Toscani in Italia
+NA20585	F	TSI	Toscani in Italia
+NA20586	M	TSI	Toscani in Italia
+NA20587	F	TSI	Toscani in Italia
+NA20588	M	TSI	Toscani in Italia
+NA20589	F	TSI	Toscani in Italia
+NA20752	M	TSI	Toscani in Italia
+NA20753	F	TSI	Toscani in Italia
+NA20754	M	TSI	Toscani in Italia
+NA20755	M	TSI	Toscani in Italia
+NA20756	F	TSI	Toscani in Italia
+NA20757	F	TSI	Toscani in Italia
+NA20758	M	TSI	Toscani in Italia
+NA20759	M	TSI	Toscani in Italia
+NA20760	F	TSI	Toscani in Italia
+NA20761	F	TSI	Toscani in Italia
+NA20762	M	TSI	Toscani in Italia
+NA20763	M	TSI	Toscani in Italia
+NA20764	F	TSI	Toscani in Italia
+NA20765	M	TSI	Toscani in Italia
+NA20766	F	TSI	Toscani in Italia
+NA20767	M	TSI	Toscani in Italia
+NA20768	F	TSI	Toscani in Italia
+NA20769	F	TSI	Toscani in Italia
+NA20770	M	TSI	Toscani in Italia
+NA20771	F	TSI	Toscani in Italia
+NA20772	F	TSI	Toscani in Italia
+NA20773	F	TSI	Toscani in Italia
+NA20774	F	TSI	Toscani in Italia
+NA20775	F	TSI	Toscani in Italia
+NA20778	M	TSI	Toscani in Italia
+NA20783	M	TSI	Toscani in Italia
+NA20785	M	TSI	Toscani in Italia
+NA20786	F	TSI	Toscani in Italia
+NA20787	M	TSI	Toscani in Italia
+NA20790	F	TSI	Toscani in Italia
+NA20792	M	TSI	Toscani in Italia
+NA20795	F	TSI	Toscani in Italia
+NA20796	M	TSI	Toscani in Italia
+NA20797	F	TSI	Toscani in Italia
+NA20798	M	TSI	Toscani in Italia
+NA20799	F	TSI	Toscani in Italia
+NA20800	F	TSI	Toscani in Italia
+NA20801	M	TSI	Toscani in Italia
+NA20802	F	TSI	Toscani in Italia
+NA20803	M	TSI	Toscani in Italia
+NA20804	F	TSI	Toscani in Italia
+NA20805	M	TSI	Toscani in Italia
+NA20806	M	TSI	Toscani in Italia
+NA20807	F	TSI	Toscani in Italia
+NA20808	F	TSI	Toscani in Italia
+NA20809	M	TSI	Toscani in Italia
+NA20810	M	TSI	Toscani in Italia
+NA20811	M	TSI	Toscani in Italia
+NA20812	M	TSI	Toscani in Italia
+NA20813	F	TSI	Toscani in Italia
+NA20814	M	TSI	Toscani in Italia
+NA20815	M	TSI	Toscani in Italia
+NA20818	F	TSI	Toscani in Italia
+NA20819	F	TSI	Toscani in Italia
+NA20821	F	TSI	Toscani in Italia
+NA20822	F	TSI	Toscani in Italia
+NA20826	F	TSI	Toscani in Italia
+NA20827	M	TSI	Toscani in Italia
+NA20828	F	TSI	Toscani in Italia
+NA20832	F	TSI	Toscani in Italia
+NA18486	M	YRI	Yoruba in Ibadan, Nigeria
+NA18488	F	YRI	Yoruba in Ibadan, Nigeria
+NA18489	F	YRI	Yoruba in Ibadan, Nigeria
+NA18498	M	YRI	Yoruba in Ibadan, Nigeria
+NA18499	F	YRI	Yoruba in Ibadan, Nigeria
+NA18501	M	YRI	Yoruba in Ibadan, Nigeria
+NA18502	F	YRI	Yoruba in Ibadan, Nigeria
+NA18504	M	YRI	Yoruba in Ibadan, Nigeria
+NA18505	F	YRI	Yoruba in Ibadan, Nigeria
+NA18507	M	YRI	Yoruba in Ibadan, Nigeria
+NA18508	F	YRI	Yoruba in Ibadan, Nigeria
+NA18510	M	YRI	Yoruba in Ibadan, Nigeria
+NA18511	F	YRI	Yoruba in Ibadan, Nigeria
+NA18516	M	YRI	Yoruba in Ibadan, Nigeria
+NA18517	F	YRI	Yoruba in Ibadan, Nigeria
+NA18519	M	YRI	Yoruba in Ibadan, Nigeria
+NA18520	F	YRI	Yoruba in Ibadan, Nigeria
+NA18522	M	YRI	Yoruba in Ibadan, Nigeria
+NA18523	F	YRI	Yoruba in Ibadan, Nigeria
+NA18853	M	YRI	Yoruba in Ibadan, Nigeria
+NA18856	M	YRI	Yoruba in Ibadan, Nigeria
+NA18858	F	YRI	Yoruba in Ibadan, Nigeria
+NA18861	F	YRI	Yoruba in Ibadan, Nigeria
+NA18864	F	YRI	Yoruba in Ibadan, Nigeria
+NA18865	M	YRI	Yoruba in Ibadan, Nigeria
+NA18867	F	YRI	Yoruba in Ibadan, Nigeria
+NA18868	M	YRI	Yoruba in Ibadan, Nigeria
+NA18870	F	YRI	Yoruba in Ibadan, Nigeria
+NA18871	M	YRI	Yoruba in Ibadan, Nigeria
+NA18873	F	YRI	Yoruba in Ibadan, Nigeria
+NA18874	M	YRI	Yoruba in Ibadan, Nigeria
+NA18876	F	YRI	Yoruba in Ibadan, Nigeria
+NA18877	M	YRI	Yoruba in Ibadan, Nigeria
+NA18878	F	YRI	Yoruba in Ibadan, Nigeria
+NA18879	M	YRI	Yoruba in Ibadan, Nigeria
+NA18881	F	YRI	Yoruba in Ibadan, Nigeria
+NA18907	F	YRI	Yoruba in Ibadan, Nigeria
+NA18908	M	YRI	Yoruba in Ibadan, Nigeria
+NA18909	F	YRI	Yoruba in Ibadan, Nigeria
+NA18910	M	YRI	Yoruba in Ibadan, Nigeria
+NA18912	F	YRI	Yoruba in Ibadan, Nigeria
+NA18915	M	YRI	Yoruba in Ibadan, Nigeria
+NA18916	F	YRI	Yoruba in Ibadan, Nigeria
+NA18917	M	YRI	Yoruba in Ibadan, Nigeria
+NA18923	M	YRI	Yoruba in Ibadan, Nigeria
+NA18924	F	YRI	Yoruba in Ibadan, Nigeria
+NA18933	F	YRI	Yoruba in Ibadan, Nigeria
+NA18934	M	YRI	Yoruba in Ibadan, Nigeria
+NA19092	M	YRI	Yoruba in Ibadan, Nigeria
+NA19093	F	YRI	Yoruba in Ibadan, Nigeria
+NA19095	F	YRI	Yoruba in Ibadan, Nigeria
+NA19096	M	YRI	Yoruba in Ibadan, Nigeria
+NA19098	M	YRI	Yoruba in Ibadan, Nigeria
+NA19099	F	YRI	Yoruba in Ibadan, Nigeria
+NA19102	F	YRI	Yoruba in Ibadan, Nigeria
+NA19107	M	YRI	Yoruba in Ibadan, Nigeria
+NA19108	F	YRI	Yoruba in Ibadan, Nigeria
+NA19113	M	YRI	Yoruba in Ibadan, Nigeria
+NA19114	F	YRI	Yoruba in Ibadan, Nigeria
+NA19116	F	YRI	Yoruba in Ibadan, Nigeria
+NA19117	M	YRI	Yoruba in Ibadan, Nigeria
+NA19118	F	YRI	Yoruba in Ibadan, Nigeria
+NA19119	M	YRI	Yoruba in Ibadan, Nigeria
+NA19121	M	YRI	Yoruba in Ibadan, Nigeria
+NA19129	F	YRI	Yoruba in Ibadan, Nigeria
+NA19130	M	YRI	Yoruba in Ibadan, Nigeria
+NA19131	F	YRI	Yoruba in Ibadan, Nigeria
+NA19137	F	YRI	Yoruba in Ibadan, Nigeria
+NA19138	M	YRI	Yoruba in Ibadan, Nigeria
+NA19141	M	YRI	Yoruba in Ibadan, Nigeria
+NA19143	F	YRI	Yoruba in Ibadan, Nigeria
+NA19144	M	YRI	Yoruba in Ibadan, Nigeria
+NA19146	M	YRI	Yoruba in Ibadan, Nigeria
+NA19147	F	YRI	Yoruba in Ibadan, Nigeria
+NA19149	F	YRI	Yoruba in Ibadan, Nigeria
+NA19152	F	YRI	Yoruba in Ibadan, Nigeria
+NA19153	M	YRI	Yoruba in Ibadan, Nigeria
+NA19159	F	YRI	Yoruba in Ibadan, Nigeria
+NA19160	M	YRI	Yoruba in Ibadan, Nigeria
+NA19171	M	YRI	Yoruba in Ibadan, Nigeria
+NA19172	F	YRI	Yoruba in Ibadan, Nigeria
+NA19175	M	YRI	Yoruba in Ibadan, Nigeria
+NA19184	M	YRI	Yoruba in Ibadan, Nigeria
+NA19185	F	YRI	Yoruba in Ibadan, Nigeria
+NA19189	M	YRI	Yoruba in Ibadan, Nigeria
+NA19190	F	YRI	Yoruba in Ibadan, Nigeria
+NA19197	F	YRI	Yoruba in Ibadan, Nigeria
+NA19198	M	YRI	Yoruba in Ibadan, Nigeria
+NA19200	M	YRI	Yoruba in Ibadan, Nigeria
+NA19201	F	YRI	Yoruba in Ibadan, Nigeria
+NA19204	F	YRI	Yoruba in Ibadan, Nigeria
+NA19206	F	YRI	Yoruba in Ibadan, Nigeria
+NA19207	M	YRI	Yoruba in Ibadan, Nigeria
+NA19209	F	YRI	Yoruba in Ibadan, Nigeria
+NA19210	M	YRI	Yoruba in Ibadan, Nigeria
+NA19213	M	YRI	Yoruba in Ibadan, Nigeria
+NA19214	F	YRI	Yoruba in Ibadan, Nigeria
+NA19222	F	YRI	Yoruba in Ibadan, Nigeria
+NA19223	M	YRI	Yoruba in Ibadan, Nigeria
+NA19225	F	YRI	Yoruba in Ibadan, Nigeria
+NA19235	F	YRI	Yoruba in Ibadan, Nigeria
+NA19236	M	YRI	Yoruba in Ibadan, Nigeria
+NA19238	F	YRI	Yoruba in Ibadan, Nigeria
+NA19239	M	YRI	Yoruba in Ibadan, Nigeria
+NA19247	F	YRI	Yoruba in Ibadan, Nigeria
+NA19248	M	YRI	Yoruba in Ibadan, Nigeria
+NA19256	M	YRI	Yoruba in Ibadan, Nigeria
+NA19257	F	YRI	Yoruba in Ibadan, Nigeria
